@@ -1,4 +1,4 @@
-// LPG MANAGEMENT SYSTEM BY - Harsh Sharma & Himanshi Bisht //
+// LPG MANAGEMENT SYSTEM BY - Harsh Sharma //
 #include<iostream>
 #include<iomanip>
 #include<string>
